@@ -1,0 +1,15 @@
+.container {
+    background-color: #D9D9D9;
+    float: right;
+    width: 75%; 
+    height: 95vh;
+    border-radius: 10px;
+}
+
+.table .table-striped {
+    background-color: #D9D9D9 !important;
+}
+
+tr {
+    background-color: #D9D9D9 !important;
+}

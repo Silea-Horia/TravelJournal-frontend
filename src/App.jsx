@@ -1,12 +1,14 @@
 import './App.css'
-import HelloWorld from './HelloWorld'
+import FilteringSidebar from './components/FilteringSidebar'
+import ListLocation from './components/ListLocation'
 
 function App() {
 
   return (
-    <>
-      <HelloWorld />
-    </>
+    <div class="app">
+      <FilteringSidebar />
+      <ListLocation />
+    </div>
   )
 }
 
